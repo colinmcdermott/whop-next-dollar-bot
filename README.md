@@ -1,4 +1,4 @@
-# Next dollar: a Grok Bot that runs Whop's Economic Intelligence
+# Whop Economic Intelligence: a Grok Bot template that runs your next best action
 
 Whop's [Economic Intelligence](https://whop.com/blog/economic-intelligence) looks at
 a business and returns the single best next action: a title with the expected
@@ -22,7 +22,7 @@ No connector in your Marketplace? It falls back to the
 [Whop CLI](https://docs.whop.com/developer/cli) on the Grok Bot computer, same
 names as `whop <group> <command>`.
 
-**Install the template:** https://x.ai/bot/REPLACE_WITH_TEMPLATE_ID
+**Install the template:** https://x.ai/bot/M2ZLrLAUFFU0fFf6Aq28c (published as "Whop Economic Intelligence by Colin"; the working name in this repo is Next dollar)
 
 ## What it does
 
